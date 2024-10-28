@@ -189,6 +189,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 
 ## Output screen shots of proteus  :
 
+![{C9C4B697-850C-4DBE-9A4A-E05A23C19403}](https://github.com/user-attachments/assets/8fd08ba1-59bf-4716-8783-fe15b118d175)
+
+
 ![Screenshot 2024-09-06 091216](https://github.com/user-attachments/assets/2c81b9b6-60e8-4e5e-9fa7-e1ecd752ac9b)
 
 
